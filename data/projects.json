@@ -290,4 +290,14 @@
         "tags": "e-commerce, html, css, vercel"
     }
 
+    {
+        "name": "clash-of-space",
+        "display": "Clash of Space",
+        "description": "This is space-craft war and alien shooting game",
+        "author": "Rajspeaks",
+        "category": "game",
+        "level": "basic,
+        "site": "https://clashofspace.netlify.app",
+        "tags": "game, html, css, javascript"
+    }
 ]
